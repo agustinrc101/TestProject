@@ -12,7 +12,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hell0oOo World!"
-        android:textSize="40sp"
+        android:textSize="50sp"
         android:textColor="#FFFF00"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
