@@ -11,9 +11,15 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+<<<<<<< HEAD
         android:text="HelloOoo World!"
         android:textSize="50sp"
         android:textColor="#FFFF00"
+=======
+        android:text="HelloooOOOooo World!"
+        android:textColor="#C51100"
+        android:textSize="30sp"
+>>>>>>> parent of bc25e0d... Revert "Changed text, text size, and text color"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
